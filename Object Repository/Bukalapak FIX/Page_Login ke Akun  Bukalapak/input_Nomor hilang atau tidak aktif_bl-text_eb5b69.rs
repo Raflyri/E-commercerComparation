@@ -4,10 +4,15 @@
    <name>input_Nomor hilang atau tidak aktif_bl-text_eb5b69</name>
    <tag></tag>
    <elementGuidId>a0536cb0-891d-407a-b1f1-33143a224f9e</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Login ke Akun  Bukalapak/input_Nomor hilang atau tidak aktif_bl-text_eb5b69.png</imagePath>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>(//input[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Login ke Akun  Bukalapak/input_Nomor hilang atau tidak aktif_bl-text_eb5b69.png</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4ebc43a3-06f8-4680-856a-fd0351ae0147</webElementGuid>
+      <webElementGuid>99436311-6bf0-415a-88fb-b6e2d7fe5941</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +35,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>67a032c2-8c55-448c-a197-aefaba9abc22</webElementGuid>
+      <webElementGuid>5d988ab9-7cbe-4885-961f-04e8a5128200</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +43,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>50ad483d-d26e-406e-a3c2-113dcb5806c5</webElementGuid>
+      <webElementGuid>18bee3fe-5513-44f2-8092-22d3eda1bd70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +51,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Kode rahasia</value>
-      <webElementGuid>bc9b6c6a-f202-4b95-bad3-b315b5360aa0</webElementGuid>
+      <webElementGuid>8c05ded6-d0af-429c-a86c-d1efe5c8df98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +59,15 @@
       <name>class</name>
       <type>Main</type>
       <value>bl-text-field__input</value>
-      <webElementGuid>20d2b987-77f6-49f6-b650-10661b4ff7f5</webElementGuid>
+      <webElementGuid>8a7f3b62-bac0-4752-918f-82f6b3e408e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;TFAJS-1659325570525&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;bl-text-field is-focused&quot;]/div[@class=&quot;bl-text-field__boxed&quot;]/div[@class=&quot;bl-text-field__inner&quot;]/input[@class=&quot;bl-text-field__input&quot;]</value>
-      <webElementGuid>fac96e9d-6cb2-4cc6-9b49-70d71c80f4aa</webElementGuid>
+      <value>id(&quot;TFAJS-1659334335566&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;bl-text-field is-focused&quot;]/div[@class=&quot;bl-text-field__boxed&quot;]/div[@class=&quot;bl-text-field__inner&quot;]/input[@class=&quot;bl-text-field__input&quot;]</value>
+      <webElementGuid>e93a0147-3f4f-4541-a5ce-b1c89405fe98</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,15 +75,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>38057f0a-7bf8-4f48-a8ad-120965a78014</webElementGuid>
+      <webElementGuid>5c4fe426-acfb-4c7f-a21f-b50195cadbae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='TFAJS-1659325570525']/section/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/input</value>
-      <webElementGuid>3a6bb14a-9ac8-4f79-9cc8-4bb59a89c28c</webElementGuid>
+      <value>//div[@id='TFAJS-1659334335566']/section/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/input</value>
+      <webElementGuid>be301115-af0b-4da0-9371-dce24cad1396</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +91,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>42240e40-0bc1-48ba-9e8b-161a2963a02c</webElementGuid>
+      <webElementGuid>59d463ed-99d4-4906-a116-dd7447362ae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +99,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>c144bd20-1cdf-4df3-aa32-53417351aef8</webElementGuid>
+      <webElementGuid>807d8ef2-e9fe-4873-a0bf-2bd4aeb1e8f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Whatsapp</name>
+   <name>span_Lanjut</name>
    <tag></tag>
-   <elementGuidId>fcf5921b-a314-4247-8dfb-01701d453c27</elementGuidId>
+   <elementGuidId>2aad2d7e-772e-4873-bd58-30457a66dd4f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='login-with-otp-wa']/div[2]/div/p</value>
+         <value>//button[@id='submit_button']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>p.bl-text.bl-text--bold</value>
+         <value>span.bl-text.bl-text--body-default.bl-text--semi-bold.bl-text--inverse</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>b9fa6ce9-8edd-4461-94d2-2d713c0f2891</webElementGuid>
+      <value>span</value>
+      <webElementGuid>43456209-5685-47d5-8e4f-011141cae8d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>bl-text bl-text--bold</value>
-      <webElementGuid>f6c5256a-b228-4d0e-b043-c5646711f932</webElementGuid>
+      <value>bl-text bl-text--body-default bl-text--semi-bold bl-text--inverse</value>
+      <webElementGuid>14c7ffa0-52fc-4e09-a958-a4fe75819ee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Whatsapp</value>
-      <webElementGuid>7d5f3ee2-8ddf-4741-bbd3-f0f281b7650e</webElementGuid>
+      <value>Lanjut</value>
+      <webElementGuid>1b535367-06f8-4d60-b5bf-903dfd8dcdd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login-with-otp-wa&quot;)/div[@class=&quot;bl-flex-item&quot;]/div[1]/p[@class=&quot;bl-text bl-text--bold&quot;]</value>
-      <webElementGuid>d6a0f19c-4489-4341-8c5a-525de576b355</webElementGuid>
+      <value>id(&quot;submit_button&quot;)/span[@class=&quot;bl-text bl-text--body-default bl-text--semi-bold bl-text--inverse&quot;]</value>
+      <webElementGuid>83ab2591-a827-44cc-94d0-a8a608cc90fe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='login-with-otp-wa']/div[2]/div/p</value>
-      <webElementGuid>63e176dc-3fb0-47e7-a550-67adf6cc2826</webElementGuid>
+      <value>//button[@id='submit_button']/span</value>
+      <webElementGuid>489039f0-17bd-4025-8a98-4858f593394a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/following::p[4]</value>
-      <webElementGuid>ccb73925-c396-4726-a856-1891769a6938</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor handphone atau email'])[1]/following::span[1]</value>
+      <webElementGuid>e2f0b6f5-c8f7-4a11-b612-e69813f488a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::p[8]</value>
-      <webElementGuid>946a80a2-06dd-42f5-b6a1-1f63538a5d6c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::span[1]</value>
+      <webElementGuid>4cca454b-73e4-4699-979d-a1fcb4ea63f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*****-****-0136'])[1]/preceding::p[1]</value>
-      <webElementGuid>2dcd7edd-1226-4f3c-b5ce-4217c15e1926</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/preceding::span[3]</value>
+      <webElementGuid>ea32e8f6-d98d-4545-bc94-419df3c33039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Whatsapp']/parent::*</value>
-      <webElementGuid>8ee64bed-c3f0-4088-8a6e-3e14f01f415d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Lanjut']/parent::*</value>
+      <webElementGuid>e0ac00ea-774a-4a5f-ab57-2cde30f71c36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div[2]/div/p</value>
-      <webElementGuid>8749610e-0527-4020-bb3f-83121b8759c9</webElementGuid>
+      <value>//span</value>
+      <webElementGuid>c58824f9-faf7-4262-bb2b-ce170443fe99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Whatsapp' or . = 'Whatsapp')]</value>
-      <webElementGuid>bfb7d0e2-f3c5-418c-b470-58e861a19f1c</webElementGuid>
+      <value>//span[(text() = 'Lanjut' or . = 'Lanjut')]</value>
+      <webElementGuid>18dd48ac-3322-40d7-bf04-5769d00b0e3c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>f561e62c-7808-4f24-9809-506b3e221148</webElementGuid>
+      <webElementGuid>71bcec5f-3f97-46b8-8c7d-7b59d78e7fd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bl-text bl-text--body-default bl-text--ellipsis__1</value>
-      <webElementGuid>4e3b3acf-37b5-4774-9d15-3314a6b69133</webElementGuid>
+      <webElementGuid>0546c56e-fdfe-4acf-8f52-0c6c6b9c26fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,15 +40,15 @@
       <value>
               BCA
             </value>
-      <webElementGuid>8eae3180-b898-4b1a-bc5b-948af2f395f7</webElementGuid>
+      <webElementGuid>46475821-34da-415a-a4c8-2d5a27fef522</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;payment-checkout-container&quot;)/fragment-loader[1]/div[@class=&quot;tuku&quot;]/div[1]/section[1]/div[1]/div[@class=&quot;bl-card bl-card--outlined&quot;]/div[@class=&quot;bl-accordion is-active bl-accordion--no-border&quot;]/div[@class=&quot;bl-accordion__body&quot;]/div[1]/div[3]/div[@class=&quot;bl-payment-category&quot;]/div[@class=&quot;bl-flex-item bl-payment-category__detail ph-20 pb-20&quot;]/div[1]/div[1]/div[@class=&quot;mb-12&quot;]/div[@class=&quot;bl-dropdown bl-payment-type__option bl-dropdown--active&quot;]/div[@class=&quot;bl-dropdown__content&quot;]/ul[@class=&quot;bl-dropdown__option&quot;]/li[@class=&quot;bl-dropdown__option__item&quot;]/div[@class=&quot;bl-dropdown__option__item-wrapper&quot;]/p[@class=&quot;bl-text bl-text--body-default bl-text--ellipsis__1&quot;]</value>
-      <webElementGuid>5608a5c4-5ef2-4e96-88f1-4676e57918c5</webElementGuid>
+      <value>id(&quot;payment-checkout-container&quot;)/fragment-loader[1]/div[@class=&quot;tuku&quot;]/div[1]/section[1]/div[1]/div[@class=&quot;bl-card bl-card--outlined&quot;]/div[@class=&quot;bl-accordion is-active bl-accordion--no-border&quot;]/div[@class=&quot;bl-accordion__body&quot;]/div[1]/div[3]/div[@class=&quot;bl-payment-category&quot;]/div[@class=&quot;bl-flex-item bl-payment-category__detail ph-20 pb-20&quot;]/div[1]/div[1]/div[@class=&quot;mb-12&quot;]/div[@class=&quot;bl-dropdown bl-payment-type__option bl-dropdown--active&quot;]/div[@class=&quot;bl-dropdown__content bl-dropdown__content--opposite&quot;]/ul[@class=&quot;bl-dropdown__option&quot;]/li[@class=&quot;bl-dropdown__option__item&quot;]/div[@class=&quot;bl-dropdown__option__item-wrapper&quot;]/p[@class=&quot;bl-text bl-text--body-default bl-text--ellipsis__1&quot;]</value>
+      <webElementGuid>4dda70cd-a6fb-42c0-a705-0fea46d5843b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment-checkout-container']/fragment-loader/div/div/section/div/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div/div/div/div[2]/ul/li/div/p</value>
-      <webElementGuid>545f97b7-a273-4aab-814f-f1057431c1c1</webElementGuid>
+      <webElementGuid>261c6bdd-fc11-4305-8025-9a8e710def75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terakhir kamu pakai'])[1]/following::p[6]</value>
-      <webElementGuid>27bd42d3-521e-45b0-984e-7b52abb14a95</webElementGuid>
+      <webElementGuid>4e2fd3a7-7a3d-4635-b926-5561ebfa3c22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran'])[1]/following::p[12]</value>
-      <webElementGuid>47b22589-a3a9-4054-a62d-0897a5841d44</webElementGuid>
+      <webElementGuid>70342e86-2360-4c2e-8f6e-4b901881e9a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Punya kode voucher?'])[1]/preceding::p[15]</value>
-      <webElementGuid>7f146972-7a6f-4ac3-a0d4-02916c9244a8</webElementGuid>
+      <webElementGuid>dab025fd-709b-4166-a8cb-c286aa75a0f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan kode voucher'])[1]/preceding::p[15]</value>
-      <webElementGuid>ca87cf2d-1180-43a4-9e9b-d42b21246af5</webElementGuid>
+      <webElementGuid>4752e2ce-2899-4748-a6b5-618994a36fc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BCA']/parent::*</value>
-      <webElementGuid>1b6688cd-f80e-4587-a154-a0da4c7abb6d</webElementGuid>
+      <webElementGuid>7b8f2ed0-febd-44cc-b164-2593d7dc3a03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/p</value>
-      <webElementGuid>bc6b4ab4-822f-4e44-90a7-86d64545049d</webElementGuid>
+      <webElementGuid>b3fcf550-6445-4a2b-b8e0-39901ea46615</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
             ' or . = '
               BCA
             ')]</value>
-      <webElementGuid>bf5d7a49-52c9-4fcd-af73-47c60459f5f9</webElementGuid>
+      <webElementGuid>7751d10c-ee50-4131-aa54-0c7b9a93daaf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

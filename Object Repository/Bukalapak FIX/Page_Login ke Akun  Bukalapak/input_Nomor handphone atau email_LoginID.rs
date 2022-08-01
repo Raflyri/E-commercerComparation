@@ -4,10 +4,15 @@
    <name>input_Nomor handphone atau email_LoginID</name>
    <tag></tag>
    <elementGuidId>dbe3c512-7819-4f91-aaae-ab4ed41b4169</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Login ke Akun  Bukalapak/input_Nomor handphone atau email_LoginID.png</imagePath>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='LoginID']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Login ke Akun  Bukalapak/input_Nomor handphone atau email_LoginID.png</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>853f6651-f6dd-40f7-9c0f-49c4b83da7d6</webElementGuid>
+      <webElementGuid>f565b2f8-d4df-4a79-81eb-942c59fa5912</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +35,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ddfd4982-461a-40f8-85a1-9ace4249ac34</webElementGuid>
+      <webElementGuid>1557f9d9-a765-4b52-809f-d5f672b69813</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +43,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>206f3b6c-b9d7-4c2f-82bd-e71166741973</webElementGuid>
+      <webElementGuid>ff5bcab8-1370-46b8-a6b7-f8810c40c952</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +51,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Nomor handphone atau email</value>
-      <webElementGuid>6822e4a5-f741-483b-842c-7d494035ee93</webElementGuid>
+      <webElementGuid>93bbfb15-6c81-4fb6-adec-e5463243912d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +59,7 @@
       <name>id</name>
       <type>Main</type>
       <value>LoginID</value>
-      <webElementGuid>ffb5c312-0c7c-4bbf-be1e-3dd8af8d541c</webElementGuid>
+      <webElementGuid>1eff85d3-07ac-493a-b1d0-316777ebaa1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +67,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bl-text-field__input</value>
-      <webElementGuid>98836619-d87a-48a8-9e6b-1f540831b223</webElementGuid>
+      <webElementGuid>79b12ff4-f5ef-4621-b8db-68dd1325894d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;LoginID&quot;)</value>
-      <webElementGuid>c4dd57dd-d1f0-42d3-a2cb-90ece87faf71</webElementGuid>
+      <webElementGuid>553e6547-3817-4b18-a18f-ab879b6bba68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='LoginID']</value>
-      <webElementGuid>48d421f7-e477-4056-aa9b-ee3d55aa1cb2</webElementGuid>
+      <webElementGuid>6581fc73-6480-42f9-8b0f-a0c5e45c2309</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +91,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>4c562c54-06ba-451c-9303-b1ae45447ef3</webElementGuid>
+      <webElementGuid>67dfb298-167f-48a8-b0d8-c1e3b08e2ecf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +99,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'LoginID']</value>
-      <webElementGuid>7dbfae79-f1cc-42dc-aa4c-5a9e13343ed4</webElementGuid>
+      <webElementGuid>ef91510e-2d23-442d-927f-828195cf3877</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
