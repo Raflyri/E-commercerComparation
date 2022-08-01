@@ -26,7 +26,7 @@ WebUI.maximizeWindow()
 WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/a_Log In'))
 
 WebUI.setText(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Login sekarang untuk mulai berbelanja _a6a865/input_Log in dengan QR_loginKey'), 
-    'raflyrizkyinriawan@gmail.com')
+    'adistiabiancari@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Login sekarang untuk mulai berbelanja _a6a865/input_Log in dengan QR_password'), 
     'FhGOQJ2Pd3fuWjJkXP7UmA==')
@@ -41,23 +41,21 @@ WebUI.delay(20)
 
 WebUI.navigateToUrl('https://shopee.co.id/Logitech-G603-Lightspeed-Mouse-Gaming-Wireless-Bluetooth-i.39400356.820590661')
 
-WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Jual Logitech G603 Lightspeed Mouse Ga_3f7b52/button_masukkan keranjang'))
+//WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Jual Logitech G603 Lightspeed Mouse Ga_3f7b52/button_masukkan keranjang'))
+WebUI.delay(3)
 
+//WebUI.navigateToUrl('https://shopee.co.id/cart')
+//WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Keranjang Belanja/div_Aksi_stardust-checkbox__box'))
+//WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Keranjang Belanja/button_checkout'))
+WebUI.delay(3)
+
+//WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/button_Buat Pesanan'))
 WebUI.delay(3)
 
 WebUI.navigateToUrl('https://shopee.co.id/cart')
 
-WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Keranjang Belanja/div_Aksi_stardust-checkbox__box'))
-
-WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Keranjang Belanja/button_checkout'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/button_Buat Pesanan'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/button_OK'))
+//WebUI.click(findTestObject('Object Repository/Shopee Login and Buy Item 2/Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/button_OK'))
+WebUI.delay(60)
 
 WebUI.closeBrowser()
 
