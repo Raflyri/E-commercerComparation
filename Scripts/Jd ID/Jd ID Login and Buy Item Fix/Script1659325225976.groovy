@@ -35,14 +35,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Jd ID Login and Buy Ite
 
 WebUI.click(findTestObject('Object Repository/Jd ID Login and Buy Item/Page_JD.ID  Toko Online Terpercaya Indonesi_743705/div_Masuk'))
 
-WebUI.delay(15)
+WebUI.delay(20)
 
 //WebUI.click(findTestObject('Object Repository/Jd ID Login and Buy Item/Page_JD.ID  Toko Online Terpercaya Indonesi_743705/span_Kirim kode'))
-
 //WebUI.delay(15, FailureHandling.STOP_ON_FAILURE)
-
 //WebUI.click(findTestObject('Object Repository/Jd ID Login and Buy Item/Page_JD.ID  Toko Online Terpercaya Indonesi_743705/div_Lanjutkan'))
-
 WebUI.navigateToUrl('https://www.jd.id/product/logitech-b170-wireless-mouse-black_10114590/100262336.html?keyword=logitech')
 
 WebUI.click(findTestObject('Object Repository/Jd ID Login and Buy Item/Page_Jual LOGITECH B170 Wireless Mouse - Bl_93565d/span_Masukkan Ke Troli'))

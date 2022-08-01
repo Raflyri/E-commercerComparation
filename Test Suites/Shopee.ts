@@ -15,7 +15,7 @@
       <guid>950bd601-481d-4776-99ee-ec812d85fb60</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Shopee/Shopee Login and Buy Item 2</testCaseId>
+      <testCaseId>Test Cases/Shopee/Shopee Login and Buy Item Fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

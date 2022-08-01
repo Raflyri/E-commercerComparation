@@ -15,7 +15,7 @@
       <guid>9e7a216c-9a98-4133-97a4-81ad8aca3012</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Klik Indomaret/KlikIndomaret Login and Checkout Item</testCaseId>
+      <testCaseId>Test Cases/Klik Indomaret/KlikIndomaret Login and Checkout Item Fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

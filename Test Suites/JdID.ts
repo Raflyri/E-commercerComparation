@@ -15,7 +15,7 @@
       <guid>66597a15-4d57-4a66-b810-b504fb419172</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Jd ID/Jd ID Login and Buy Item</testCaseId>
+      <testCaseId>Test Cases/Jd ID/Jd ID Login and Buy Item Fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

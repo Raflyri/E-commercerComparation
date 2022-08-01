@@ -30,7 +30,7 @@ WebUI.click(findTestObject('Object Repository/Bukalapak Login and Checkout/Page_
 WebUI.click(findTestObject('Object Repository/Bukalapak Login and Checkout/Page_Login ke Akun  Bukalapak/div_Nomor handphone atau email'))
 
 WebUI.setText(findTestObject('Object Repository/Bukalapak Login and Checkout/Page_Login ke Akun  Bukalapak/input_Nomor handphone atau email_LoginID'), 
-    'mail.rbtech@gmail.com')
+    'raflyrizkyinriawan@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Bukalapak Login and Checkout/Page_Login ke Akun  Bukalapak/button_Lanjut'))
 

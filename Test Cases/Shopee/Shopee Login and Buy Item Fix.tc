@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>KlikIndomaret Login and Checkout Item</name>
+   <name>Shopee Login and Buy Item Fix</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>fe87760f-bb0e-4b68-a5d7-363ea79dd8e8</testCaseGuid>
+   <testCaseGuid>1564f226-cc03-4563-a114-93613db8cd18</testCaseGuid>
 </TestCaseEntity>
