@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nomor Rekening 7210203407898685</name>
+   <tag></tag>
+   <elementGuidId>0f4004ab-a406-477b-a686-2f1a4ce16748</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div[2]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14f38dcb-abc1-42ee-9b3f-f95aa9342639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content clearfix</value>
+      <webElementGuid>c4db4222-9687-4e59-b817-2cf759bebf34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Rekening 7210203407898685 </value>
+      <webElementGuid>1c33a866-6d5e-45dd-ae85-98bbf10d0c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;confirmation&quot;]/div[@class=&quot;confirmation-content&quot;]/div[@class=&quot;payment-info&quot;]/div[@class=&quot;content clearfix&quot;]</value>
+      <webElementGuid>6dabb61f-8dd5-4079-82f2-06624855d7a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div[2]/div[4]</value>
+      <webElementGuid>da21f285-43c9-4a62-bc42-6540b479332b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank'])[1]/following::div[2]</value>
+      <webElementGuid>e416fbc2-9158-4ce1-bb0f-e2db2fc58407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pastikan untuk memasukkan 3 digit terakhir saat Anda melakukan transfer'])[1]/following::div[4]</value>
+      <webElementGuid>dd65089c-6770-49f2-8c5d-f75b2bffe37f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Rekening'])[1]/preceding::div[4]</value>
+      <webElementGuid>3567c043-e9c9-4ad3-be60-a4b09e6319ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>a7d7d2d0-cf7b-427c-b4f3-9c5254192b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nomor Rekening 7210203407898685 ' or . = 'Nomor Rekening 7210203407898685 ')]</value>
+      <webElementGuid>4ea0e4b6-c983-42c8-9852-b081010cd056</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

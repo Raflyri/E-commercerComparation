@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.tokopedia.com/'</initValue>
+      <name>TokpedURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://shopee.co.id/'</initValue>
+      <name>ShopeeURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.tokopedia.com/login?ld=/order-list'</initValue>
+      <name>LoginTokped</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://shopee.co.id/buyer/login?next=https%3A%2F%2Fshopee.co.id%2F'</initValue>
+      <name>LoginShopee</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://shopee.co.id/Logitech-G603-Lightspeed-Mouse-Gaming-Wireless-Bluetooth-i.39400356.820590661?sp_atk=ff1690e6-f65c-4ddc-8dde-59c45d11cb03&amp;xptdk=ff1690e6-f65c-4ddc-8dde-59c45d11cb03'</initValue>
+      <name>ShopeeItemUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.tokopedia.com/logitech-g/logitech-g603-lightspeed-mouse-gaming-wireless-bluetooth?extParam=ivf%3Dfalse&amp;src=topads'</initValue>
+      <name>TokpedItemUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

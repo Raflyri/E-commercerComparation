@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Login</name>
+   <tag></tag>
+   <elementGuidId>47bafb1e-2d1c-4b78-8c1f-9a4262135aa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sigil-header__nav.te-header-login > p.pr-4.sigil-header__nav-action.bl-text.bl-text--body-small.bl-text--semi-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vm__white-header-dweb']/section/header/div[3]/div/div/div[2]/div/a[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>74baba75-545e-45ca-aeee-fa5944cf72d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pr-4 sigil-header__nav-action bl-text bl-text--body-small bl-text--semi-bold</value>
+      <webElementGuid>78328aa3-db65-4a42-b5a1-dec5b06d9875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>89f38b32-557d-4ab7-9c90-9aa0af9a4301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vm__white-header-dweb&quot;)/section[@class=&quot;bl-section sigil-header&quot;]/header[@class=&quot;c-header-v2&quot;]/div[@class=&quot;sigil-header__main-nav-bar&quot;]/div[@class=&quot;bl-container&quot;]/div[@class=&quot;bl-flex-container justify-space-between align-items-center&quot;]/div[@class=&quot;bl-flex-item&quot;]/div[@class=&quot;bl-flex-container align-items-center&quot;]/a[@class=&quot;sigil-header__nav te-header-login&quot;]/p[@class=&quot;pr-4 sigil-header__nav-action bl-text bl-text--body-small bl-text--semi-bold&quot;]</value>
+      <webElementGuid>1dc9dc99-2bd3-46fa-b92b-91afaad27da6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vm__white-header-dweb']/section/header/div[3]/div/div/div[2]/div/a[2]/p</value>
+      <webElementGuid>b3c36015-86a0-42b8-b1c8-4044bbd9e570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat BukaMall'])[1]/following::p[3]</value>
+      <webElementGuid>103f5b39-b01f-47da-a9a2-cc0a9828141c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Sepeda Pelita Abadi'])[1]/following::p[3]</value>
+      <webElementGuid>8f7f61d3-2879-4651-aaf7-2d0d5e5762b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[1]/preceding::p[1]</value>
+      <webElementGuid>d6967f75-4e65-4699-ae9e-c557c16e487a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[2]/preceding::p[10]</value>
+      <webElementGuid>e2e96f9b-b82f-4c84-be3b-79546092ca19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>69415eac-6106-4b15-92c1-127f1d7dbe3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/p</value>
+      <webElementGuid>2300a2d1-bdcc-4a6d-9a5d-06f8f3ac6a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>c2c71dd8-8122-4608-bf4e-5dd56c9f58e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

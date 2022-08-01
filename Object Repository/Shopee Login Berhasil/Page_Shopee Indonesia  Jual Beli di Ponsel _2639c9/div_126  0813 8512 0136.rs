@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_126  0813 8512 0136</name>
+   <tag></tag>
+   <elementGuidId>2a15d0d5-f984-46b6-a3e6-b2b1344987ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div[2]/div/div[5]/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._90X3Iy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>29c81954-df17-48b4-aca7-16e75681b7f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_90X3Iy</value>
+      <webElementGuid>848ad39c-2b53-46e4-8e61-eeabd2829a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>126  0813 8512 0136</value>
+      <webElementGuid>166a27ed-a368-4c18-b392-62f37ff33232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[2]/div[@class=&quot;payment-safe-page&quot;]/div[@class=&quot;q54q0y lD54SR&quot;]/div[@class=&quot;-TEqz2&quot;]/div[@class=&quot;_0yEjFh&quot;]/div[@class=&quot;thAXZq&quot;]/div[@class=&quot;_90X3Iy&quot;]</value>
+      <webElementGuid>4a8400fd-18cd-47b2-84a3-13cfcb673859</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div[2]/div/div[5]/div[2]/div[2]/div</value>
+      <webElementGuid>e8ff18ee-9009-4428-acea-d0dce7a67315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Rekening:'])[1]/following::div[2]</value>
+      <webElementGuid>d2d4ce37-15f4-490c-9dcf-9577541ab320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank BCA (Dicek Otomatis)'])[1]/following::div[4]</value>
+      <webElementGuid>591fdc6d-2efd-49ef-8571-9de32566cfed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SALIN'])[1]/preceding::div[1]</value>
+      <webElementGuid>d7cd13ac-dc03-4bb0-9a3a-dd623111329c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Petunjuk Transfer mBanking'])[1]/preceding::div[2]</value>
+      <webElementGuid>b0434aae-3394-4c88-a5d1-573abfe3559d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div</value>
+      <webElementGuid>afa10f78-a5aa-4f2b-9502-d5e8c408781c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '126  0813 8512 0136' or . = '126  0813 8512 0136')]</value>
+      <webElementGuid>9bbf2fc8-a24c-4929-a2c2-7279f821eea3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

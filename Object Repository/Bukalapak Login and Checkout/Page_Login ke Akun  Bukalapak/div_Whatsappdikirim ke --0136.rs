@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Whatsappdikirim ke --0136</name>
+   <tag></tag>
+   <elementGuidId>0d054818-56c1-464b-b58b-a7280a39c67c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-with-otp-wa']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#login-with-otp-wa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91f30321-8537-4d8d-828b-eb3b5f457a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-flex-container align-items-center card-wrapper</value>
+      <webElementGuid>69e02dda-1988-4aac-9a86-e8b09e9f9836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login-with-otp-wa</value>
+      <webElementGuid>e3c22ee3-1dc1-4ced-911a-64f8c56236e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Whatsappdikirim ke: *****-****-0136</value>
+      <webElementGuid>2318e3b5-bd25-4fc1-8dfd-f197ab296a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-with-otp-wa&quot;)</value>
+      <webElementGuid>4bdc52f1-0864-46fa-b7c1-551012ccbeb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='login-with-otp-wa']</value>
+      <webElementGuid>1d627cb5-76a8-4830-b832-384aff78f369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1658650412898']/section/div/div[2]/div/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>40d800c8-7029-4310-afaf-1d7f959f3a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/following::div[23]</value>
+      <webElementGuid>c18fd968-d8a1-4fb4-ad3a-608405072410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[29]</value>
+      <webElementGuid>890c8973-c0d6-4be6-86e4-d0f786e493cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'login-with-otp-wa', '&quot;', ')')])[1]/preceding::div[14]</value>
+      <webElementGuid>95f4acac-2cb3-4e25-93b8-581d6e3119e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>8da4c1c5-689b-42a2-b002-c1bc1e6cf983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'login-with-otp-wa' and (text() = 'Whatsappdikirim ke: *****-****-0136' or . = 'Whatsappdikirim ke: *****-****-0136')]</value>
+      <webElementGuid>918294bb-5a6f-433d-81b3-9189424fb28f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

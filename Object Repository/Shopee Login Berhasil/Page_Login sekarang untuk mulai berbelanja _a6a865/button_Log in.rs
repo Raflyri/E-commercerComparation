@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log in</name>
+   <tag></tag>
+   <elementGuidId>0f256f8c-d4b5-448f-9254-2a07b62337cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/form/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.wyhvVD._1EApiB.hq6WM5.L-VL8Q.cepDQ1._7w24N1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f6efdb77-3cb8-4a4b-b7af-3bea0c69af90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wyhvVD _1EApiB hq6WM5 L-VL8Q cepDQ1 _7w24N1</value>
+      <webElementGuid>ec132826-f515-4bda-86a1-69e2c2ff3a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>22f4a674-8d5f-409f-94d4-ef5d96899dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;vtexOX&quot;]/div[1]/div[@class=&quot;_3M9lzn PeA8Gc&quot;]/form[1]/div[@class=&quot;Gxi65y J1i6cp B-fiUo&quot;]/div[@class=&quot;yXry6s&quot;]/button[@class=&quot;wyhvVD _1EApiB hq6WM5 L-VL8Q cepDQ1 _7w24N1&quot;]</value>
+      <webElementGuid>640323e8-9b07-4919-9e4b-f6be75bf64a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0ccc439d-1cf9-4fec-9edc-6849ecaa8bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wyhvVD _1EApiB hq6WM5 L-VL8Q cepDQ1 _7w24N1</value>
+      <webElementGuid>a2191086-5aba-46ba-b14c-785cd8b08ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>84ff56d9-603b-4e46-9c35-8fa4a908480b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;vtexOX&quot;]/div[1]/div[@class=&quot;_3M9lzn PeA8Gc&quot;]/form[1]/div[@class=&quot;Gxi65y J1i6cp B-fiUo&quot;]/div[@class=&quot;yXry6s&quot;]/button[@class=&quot;wyhvVD _1EApiB hq6WM5 L-VL8Q cepDQ1 _7w24N1&quot;]</value>
+      <webElementGuid>5b3258e2-8271-4979-ab62-7c2e1bd6cfc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/form/div/div[2]/button</value>
+      <webElementGuid>d3e7dda0-5bc8-4cb8-b100-47e40810de85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in dengan QR'])[1]/following::button[2]</value>
+      <webElementGuid>d460a5ff-286b-4653-b692-ef0e9964b96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/following::button[2]</value>
+      <webElementGuid>1ce78be9-df6b-4092-aace-1f0a1034a843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password'])[1]/preceding::button[1]</value>
+      <webElementGuid>0a3225c7-cfa6-4150-b44c-480073ac095c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in dengan no. handphone'])[1]/preceding::button[1]</value>
+      <webElementGuid>10424516-51a3-4bb4-8940-b7252ac4d4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>39834c34-8528-4c6c-954d-f4353a3bdf82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>dba6244d-2cdc-4308-a0e7-e81b1250fbd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

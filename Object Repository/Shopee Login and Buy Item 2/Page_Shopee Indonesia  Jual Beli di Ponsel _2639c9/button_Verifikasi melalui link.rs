@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Verifikasi melalui link</name>
+   <tag></tag>
+   <elementGuidId>4cc8b072-3273-4ad7-9397-4cb21ab9007b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.E62KYV</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c5329a0c-58ae-4d2d-b12c-af3914bb61ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>E62KYV</value>
+      <webElementGuid>51524013-0cc1-4129-91ad-1391ade922fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi melalui link</value>
+      <webElementGuid>240bf576-35e3-4b08-a516-8ec3a739fbfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;vtexOX&quot;]/div[1]/div[@class=&quot;_3M9lzn&quot;]/div[@class=&quot;_8216vd&quot;]/div[@class=&quot;j+62tl J1i6cp&quot;]/div[@class=&quot;AOz7SK&quot;]/div[@class=&quot;VXfiwU&quot;]/div[@class=&quot;quvuMg&quot;]/button[@class=&quot;E62KYV&quot;]</value>
+      <webElementGuid>e4ed3177-5dc4-47c0-8758-33c0f0dd544a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>688b0a7f-657f-4059-9357-bc89dd7c53ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Untuk keamanan akun, mohon verifikasi identitas kamu dengan salah satu cara di bawah ini.'])[1]/following::button[1]</value>
+      <webElementGuid>47ba78d4-279e-405f-a4d8-faf06668224c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Butuh bantuan?'])[1]/following::button[1]</value>
+      <webElementGuid>a4544cc8-1b03-4613-889c-68a1e2af815f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Q: Mengapa saya diminta untuk verifikasi akun?'])[1]/preceding::button[1]</value>
+      <webElementGuid>97d076e1-ea64-48c6-81e8-221cd41b77bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>d33b54b2-c34e-44cc-95ab-6ac82af87772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Verifikasi melalui link' or . = 'Verifikasi melalui link')]</value>
+      <webElementGuid>db44804d-0499-42bd-aef5-1c81f0270efe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

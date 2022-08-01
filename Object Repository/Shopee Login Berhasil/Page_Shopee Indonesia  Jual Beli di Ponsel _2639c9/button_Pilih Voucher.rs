@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Voucher</name>
+   <tag></tag>
+   <elementGuidId>30d0aa00-5826-43ba-9df5-c80fc6184d1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div[2]/div[3]/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._6dwQij</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6e040a8e-e2ff-4869-96b0-d22fe2c97343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_6dwQij</value>
+      <webElementGuid>b5d4d081-cd03-4395-a69c-24403a7f850c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Voucher</value>
+      <webElementGuid>f1d0864e-61f8-4313-a61f-0c3687b00106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;dYFPlI&quot;]/div[@class=&quot;_8ZMqxt&quot;]/div[@class=&quot;+0Lry3&quot;]/div[@class=&quot;mRngyc&quot;]/div[@class=&quot;v84Pv8&quot;]/button[@class=&quot;_6dwQij&quot;]</value>
+      <webElementGuid>6668747c-2d9e-4691-aac6-a0363f3bbb24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div[2]/div[3]/div/div[2]/button</value>
+      <webElementGuid>a8d49eec-0777-4e2f-9705-3294b7729066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voucher Shopee'])[1]/following::button[1]</value>
+      <webElementGuid>41032907-a803-4209-bf0b-3e3631dffef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp1.482.000'])[1]/following::button[1]</value>
+      <webElementGuid>4e1b82c5-0e11-40ef-b492-d8ba80c2ae26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koin Shopee'])[1]/preceding::button[1]</value>
+      <webElementGuid>f4a0ee7d-2615-4997-9bf1-bb973bc3f196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tukarkan 20 Koin Shopee'])[1]/preceding::button[1]</value>
+      <webElementGuid>827647b1-4758-42cc-b835-65cf2ccd592b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>3704d298-65c0-4255-9318-f56fae906e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pilih Voucher' or . = 'Pilih Voucher')]</value>
+      <webElementGuid>3debe223-c157-4869-b851-7ee5599c8a63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

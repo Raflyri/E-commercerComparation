@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_masukkan keranjang</name>
+   <tag></tag>
+   <elementGuidId>94e6eb3e-2c27-4949-9b5a-49ddeb8ac108</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-tinted.btn--l.GfiOwy.RT2b7v</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f498e01-49e0-4f51-a2d1-443877f306e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9c604c2-7ca0-4840-8985-3e28fff22df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-tinted btn--l GfiOwy RT2b7v</value>
+      <webElementGuid>d861be06-4132-485e-a01b-d25d17c0c853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1ebe2471-e035-449d-a1cf-e744ac311532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>masukkan keranjang</value>
+      <webElementGuid>4b94b562-56b4-46db-9fec-3988ee37c717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[2]/div[@class=&quot;XmiBHs&quot;]/div[@class=&quot;theme--ofs&quot;]/div[@class=&quot;page-product page-product--mall&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product-briefing flex card -Esc+w&quot;]/div[@class=&quot;flex flex-auto HLQqkk&quot;]/div[@class=&quot;flex-auto flex-column  imEX5V&quot;]/div[5]/div[@class=&quot;vdf0Mi&quot;]/div[@class=&quot;OozJX2&quot;]/button[@class=&quot;btn btn-tinted btn--l GfiOwy RT2b7v&quot;]</value>
+      <webElementGuid>5663f30d-a26c-49dc-bcb1-27cf19eec933</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>e311b6ea-14f6-48fb-b9b4-fb34a14c1949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div/div/div[3]/div/div[5]/div/div/button</value>
+      <webElementGuid>f8062af1-5bea-4909-8d5a-8a650730c9c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tersisa 199 buah'])[1]/following::button[1]</value>
+      <webElementGuid>1721ebd2-8c87-4b4f-8c61-30f653d9a753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kuantitas'])[1]/following::button[3]</value>
+      <webElementGuid>8db65b37-599f-4776-880a-027649c81aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='beli sekarang'])[1]/preceding::button[1]</value>
+      <webElementGuid>29ffc94d-889d-4324-bdb4-8d8b70cd6962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button</value>
+      <webElementGuid>f8a3191a-4391-49c9-b027-8d31c21f4f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'masukkan keranjang' or . = 'masukkan keranjang')]</value>
+      <webElementGuid>23512f70-3772-4ab8-ad55-dfe2ee2b5e78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

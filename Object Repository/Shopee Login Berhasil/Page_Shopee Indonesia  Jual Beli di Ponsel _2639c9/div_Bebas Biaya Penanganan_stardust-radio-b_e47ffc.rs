@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bebas Biaya Penanganan_stardust-radio-b_e47ffc</name>
+   <tag></tag>
+   <elementGuidId>d06ff29f-e1f3-4b6c-a804-13a7385b4ee5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div[2]/div[4]/div/div/div[2]/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.stardust-radio-button.stardust-radio-button--checked > div.stardust-radio-button__outer-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4dbbe150-ff67-4065-b8f4-bb721feb2256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stardust-radio-button__outer-circle</value>
+      <webElementGuid>fc0eb333-f6bd-4ede-a1c5-b2a0fc61561c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;dYFPlI&quot;]/div[@class=&quot;_8ZMqxt&quot;]/div[@class=&quot;kRed1l&quot;]/div[@class=&quot;HgQ4yt&quot;]/div[1]/div[@class=&quot;checkout-payment-setting__payment-method-options&quot;]/div[@class=&quot;bank-transfer-category&quot;]/div[@class=&quot;bank-transfer-category__body&quot;]/div[@class=&quot;checkout-bank-transfer-item&quot;]/div[@class=&quot;stardust-radio stardust-radio--checked&quot;]/div[@class=&quot;stardust-radio-button stardust-radio-button--checked&quot;]/div[@class=&quot;stardust-radio-button__outer-circle&quot;]</value>
+      <webElementGuid>35f1ada7-f48b-4556-8f44-fc9ed2388342</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div[2]/div[4]/div/div/div[2]/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>ee689786-5a4c-443e-904e-0eaee6c22d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebas Biaya Penanganan'])[1]/following::div[4]</value>
+      <webElementGuid>85ddbe25-7822-4efe-b22b-0ba8453241cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank BCA (Dicek Otomatis)'])[1]/preceding::div[3]</value>
+      <webElementGuid>030073ff-ec36-466f-98c7-0e7a2fb9b6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hanya menerima dari Bank BCA'])[1]/preceding::div[4]</value>
+      <webElementGuid>a7120dae-cd6d-4109-bfb7-7e844900adbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>78d0d31a-6610-4c15-b0a3-8e36290d9ccd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

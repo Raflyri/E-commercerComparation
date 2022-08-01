@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_33offLogitech G603 Lightspeed Mouse Gam_654e6a</name>
+   <tag></tag>
+   <elementGuidId>d291e93c-7292-43af-9240-5409bacd5d9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div[3]/div[2]/div[8]/div/div/div[2]/section/div/div[3]/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ad79586-16df-4351-b50d-5cfae431b921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uA1waf _4QQ4Ir</value>
+      <webElementGuid>04c8ca0a-d5ea-4188-aa9a-184958cb88cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>33%offLogitech G603 Lightspeed Mouse Gaming Wireless BluetoothRp729.000181 TerjualProduk Serupa</value>
+      <webElementGuid>b2f3a53d-2111-4e22-9e82-f8eb0cfc8a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[2]/div[@class=&quot;xCao3k N2AB73&quot;]/div[@class=&quot;home-page&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;section-below-the-fold&quot;]/div[@class=&quot;section-recommend-products-wrapper&quot;]/div[1]/div[@class=&quot;ARwPBS&quot;]/div[@class=&quot;stardust-tabs-panels&quot;]/section[@class=&quot;stardust-tabs-panels__panel&quot;]/div[@class=&quot;_6wTCb6&quot;]/div[@class=&quot;_4beVMw&quot;]/a[1]/div[@class=&quot;yZLQT4 YbTQos&quot;]/div[@class=&quot;uA1waf _4QQ4Ir&quot;]</value>
+      <webElementGuid>ce1ce8c2-bb2b-4129-9ab3-c799172ecc67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div[3]/div[2]/div[8]/div/div/div[2]/section/div/div[3]/a/div/div</value>
+      <webElementGuid>8232a562-3dde-4045-9f7e-6f32015d9567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Serupa'])[2]/following::div[3]</value>
+      <webElementGuid>fb2f8f8c-9cb3-488a-816c-7274ad3432c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[18]/following::div[5]</value>
+      <webElementGuid>1271a973-aeca-44bb-93d2-399abd5989f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div</value>
+      <webElementGuid>71717edb-dd0a-46f8-b855-0514ad639537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '33%offLogitech G603 Lightspeed Mouse Gaming Wireless BluetoothRp729.000181 TerjualProduk Serupa' or . = '33%offLogitech G603 Lightspeed Mouse Gaming Wireless BluetoothRp729.000181 TerjualProduk Serupa')]</value>
+      <webElementGuid>a0733ac2-ccfa-4c92-9d29-2c54b55f45bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

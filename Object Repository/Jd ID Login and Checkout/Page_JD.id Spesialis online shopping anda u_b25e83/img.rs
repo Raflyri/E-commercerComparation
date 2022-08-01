@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8c7c4ace-a8f7-4b20-89be-6692cedb7e67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/div/div/div[3]/ul/li[5]/div/div/div[2]/div[2]/div/ul/li/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-list.bank-list > ul.clearfix > li.active > div.bg-list-item > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3f159afd-54d8-4d0e-9673-ffab54597c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://img20.jd.id/Indonesia/amZzL3Q3OS8yOTMvNzI2MTIzMzI3MC84MTAxL2ZiM2RiODIvNjBiYTEzZjdONWJkNDY3N2I.jpg</value>
+      <webElementGuid>e9560124-101b-40a4-b335-f04b89293cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper-content&quot;]/div[@class=&quot;home-wrapper&quot;]/div[@class=&quot;home&quot;]/div[@class=&quot;content clearfix&quot;]/div[@class=&quot;content-l&quot;]/div[@class=&quot;other-methods&quot;]/div[@class=&quot;content-l-list&quot;]/ul[1]/li[5]/div[@class=&quot;content-wrapper active&quot;]/div[@class=&quot;bank&quot;]/div[@class=&quot;pay-detail&quot;]/div[@class=&quot;pay-input mb12&quot;]/div[@class=&quot;bg-list bank-list&quot;]/ul[@class=&quot;clearfix&quot;]/li[@class=&quot;active&quot;]/div[@class=&quot;bg-list-item&quot;]/img[1]</value>
+      <webElementGuid>345d3077-8631-4fc3-96a1-6e076c8b0721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/div/div/div[3]/ul/li[5]/div/div/div[2]/div[2]/div/ul/li/div/img</value>
+      <webElementGuid>df799509-bdc8-4f77-b9ef-61b200419c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://img20.jd.id/Indonesia/amZzL3Q3OS8yOTMvNzI2MTIzMzI3MC84MTAxL2ZiM2RiODIvNjBiYTEzZjdONWJkNDY3N2I.jpg')]</value>
+      <webElementGuid>771fc117-4804-4ee7-a306-514823e5a52e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/div/img</value>
+      <webElementGuid>54d9aca9-e8f0-47f1-91c6-2921d37996e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://img20.jd.id/Indonesia/amZzL3Q3OS8yOTMvNzI2MTIzMzI3MC84MTAxL2ZiM2RiODIvNjBiYTEzZjdONWJkNDY3N2I.jpg']</value>
+      <webElementGuid>7be637e7-4b5e-4a5e-a1d3-1c5165f5ab7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

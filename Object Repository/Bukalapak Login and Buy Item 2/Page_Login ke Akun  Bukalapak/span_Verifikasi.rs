@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Verifikasi</name>
+   <tag></tag>
+   <elementGuidId>eb79cac9-8833-4a5e-9de1-43ec417a5b30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div > div > button.bl-button.bl-button--primary.bl-button--medium.bl-button--block > span.bl-text.bl-text--body-default.bl-text--semi-bold.bl-text--inverse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TFAJS-1659249368421']/section/div/div[2]/div/div[2]/div/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>134e634a-a001-46be-904b-76dd51eb64a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-text bl-text--body-default bl-text--semi-bold bl-text--inverse</value>
+      <webElementGuid>2a8194d7-4270-4166-8231-00b92a08cbc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi</value>
+      <webElementGuid>28d2ab56-fc36-42eb-a127-4efd35f7833f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1659249368421&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/button[@class=&quot;bl-button bl-button--primary bl-button--medium bl-button--block&quot;]/span[@class=&quot;bl-text bl-text--body-default bl-text--semi-bold bl-text--inverse&quot;]</value>
+      <webElementGuid>6195fa4d-8ca2-4d5b-ad80-d90d5a62547c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1659249368421']/section/div/div[2]/div/div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>a7749a21-810b-40da-a25d-c7ee92337256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunggu 1 menit 3 detik'])[1]/following::span[1]</value>
+      <webElementGuid>89a0c035-2e2c-4f08-9e60-cb293f39514f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode rahasia'])[1]/following::span[1]</value>
+      <webElementGuid>c707112b-b8a3-4457-9513-b099881c9181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verifikasi']/parent::*</value>
+      <webElementGuid>d556f85a-69f4-498d-825c-8c7801c03ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>36af2793-9e75-4f8b-99bb-c42dfd7070ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Verifikasi' or . = 'Verifikasi')]</value>
+      <webElementGuid>e2f44fe7-03bb-4a65-a1ce-c9c3d86e5826</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

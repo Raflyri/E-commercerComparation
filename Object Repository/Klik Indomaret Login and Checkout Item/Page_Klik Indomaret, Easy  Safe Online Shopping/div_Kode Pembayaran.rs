@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kode Pembayaran</name>
+   <tag></tag>
+   <elementGuidId>6c95fd5d-e665-4643-a9f1-a913393962d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-content']/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>77f5b283-e51a-4f72-9778-c744419b008f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kode Pembayaran</value>
+      <webElementGuid>295b6e0b-a06f-4ada-80f7-2343d6f7b3b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-content&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;wrp-content&quot;]/div[@class=&quot;vmiddle&quot;]/div[@class=&quot;box-item&quot;]/div[@class=&quot;item&quot;]/div[1]</value>
+      <webElementGuid>71d9b85a-b26a-466f-9ce1-ea1d72bb6263</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-content']/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>f94d195d-51ca-4b11-9bd4-be22b4cc39d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BCA Virtual Account'])[1]/following::div[2]</value>
+      <webElementGuid>2a964bfc-0ece-4641-8c29-ffa7cb54887d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metode Pembayaran'])[1]/following::div[3]</value>
+      <webElementGuid>56f57268-a254-4b93-8b68-928f128c657a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salin Kode'])[1]/preceding::div[1]</value>
+      <webElementGuid>ca51b11f-9877-4e38-ba66-ba3773bce680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebesar'])[1]/preceding::div[2]</value>
+      <webElementGuid>7f0cef4b-ca7c-4066-a7d5-24231a74182b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kode Pembayaran']/parent::*</value>
+      <webElementGuid>b809a4c3-e606-4978-8fe0-11cf9ccd2e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>c278c8d0-42b5-497d-9e96-9ab9ce15f559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kode Pembayaran' or . = 'Kode Pembayaran')]</value>
+      <webElementGuid>76800137-7c8a-4919-89fa-708703e92c9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

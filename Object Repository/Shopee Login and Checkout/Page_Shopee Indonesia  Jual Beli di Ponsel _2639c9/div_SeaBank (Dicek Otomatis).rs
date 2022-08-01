@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SeaBank (Dicek Otomatis)</name>
+   <tag></tag>
+   <elementGuidId>f8c2a613-436b-444a-b314-c2d98ce16e52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div[2]/div[4]/div/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkout-bank-transfer-item__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>56d69422-b425-49ba-976b-e7a4187a70a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkout-bank-transfer-item__title</value>
+      <webElementGuid>c0dcd42c-3fda-4eee-93f2-9034f2b8a2b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SeaBank (Dicek Otomatis)</value>
+      <webElementGuid>9d9e4704-3214-4f4f-948a-a1a49e42d174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;dYFPlI&quot;]/div[@class=&quot;_8ZMqxt&quot;]/div[@class=&quot;kRed1l&quot;]/div[@class=&quot;HgQ4yt&quot;]/div[1]/div[@class=&quot;checkout-payment-setting__payment-method-options&quot;]/div[@class=&quot;bank-transfer-category&quot;]/div[@class=&quot;bank-transfer-category__body&quot;]/div[@class=&quot;checkout-bank-transfer-item&quot;]/div[@class=&quot;stardust-radio&quot;]/div[@class=&quot;stardust-radio__content&quot;]/div[@class=&quot;stardust-radio__label&quot;]/div[@class=&quot;checkout-bank-transfer-item__card&quot;]/div[@class=&quot;checkout-bank-transfer-item__main&quot;]/div[@class=&quot;checkout-bank-transfer-item__title&quot;]</value>
+      <webElementGuid>b4956dff-b2e0-4008-97b2-12027785538c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div[2]/div[4]/div/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>e7b78420-4967-46d7-a5c6-fcb4d18334df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Bank'])[1]/following::div[12]</value>
+      <webElementGuid>c48aca23-28b5-45ee-b707-a2084ff3509c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indomaret / i.Saku'])[1]/following::div[15]</value>
+      <webElementGuid>69cc6b9a-b067-489d-8e8f-f66171ea831e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebas Biaya Penanganan'])[1]/preceding::div[1]</value>
+      <webElementGuid>d64400c2-d985-4c61-8449-20b969fe3c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SeaBank (Dicek Otomatis)']/parent::*</value>
+      <webElementGuid>886f3f17-c689-496c-a181-9b3e3a323420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>74d3eb16-fd9d-4692-a454-285ed653f619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SeaBank (Dicek Otomatis)' or . = 'SeaBank (Dicek Otomatis)')]</value>
+      <webElementGuid>45decde4-2547-4692-ae47-ab76d165a160</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

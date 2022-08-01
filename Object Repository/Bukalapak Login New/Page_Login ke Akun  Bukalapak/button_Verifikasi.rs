@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Verifikasi</name>
+   <tag></tag>
+   <elementGuidId>365ab027-eea4-4e31-a926-0ef68a9f5563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div > div > button.bl-button.bl-button--primary.bl-button--medium.bl-button--block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TFAJS-1658932759361']/section/div/div[2]/div/div[2]/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5ef5a7df-6c52-4f31-b2cf-31444a115cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-button bl-button--primary bl-button--medium bl-button--block</value>
+      <webElementGuid>48583e42-7397-4797-a974-a7ef03ef156d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Verifikasi </value>
+      <webElementGuid>d9988162-6283-429f-bb62-b759567f80b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1658932759361&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/button[@class=&quot;bl-button bl-button--primary bl-button--medium bl-button--block&quot;]</value>
+      <webElementGuid>ff495d3a-42cd-4f6b-8213-5bc1a6852a9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1658932759361']/section/div/div[2]/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>413036d6-2d91-45a8-a27e-c6f5825afed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunggu 13 detik'])[1]/following::button[1]</value>
+      <webElementGuid>77530ce9-f478-43e7-bafd-592f44741d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode rahasia'])[1]/following::button[1]</value>
+      <webElementGuid>0e612a11-c790-4c5e-b1f0-9d8feaf006c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>9550f830-821b-45be-ad03-ffed14943abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Verifikasi ' or . = ' Verifikasi ')]</value>
+      <webElementGuid>a1a51178-b723-4621-94fb-2c6f51bb5b2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

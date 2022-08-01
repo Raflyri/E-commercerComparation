@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Masuk  Daftar</name>
+   <tag></tag>
+   <elementGuidId>c4d13dd8-daf1-4f6f-9852-7f0945249a92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='siteHeader']/div/div/div[2]/div[2]/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4d66e5b4-a931-4d47-8861-0042e24be792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>099d3899-07b1-42c9-9ebb-085bc5e6e2b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://account.klikindomaret.com?ReturnUrl=http://www.klikindomaret.com/</value>
+      <webElementGuid>ec34725a-4bfb-4535-9cfe-7883428b418f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk / Daftar</value>
+      <webElementGuid>b4f90697-0308-48cd-ac89-d4e17bb57b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;siteHeader&quot;)/div[@class=&quot;top-header desktop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;bottom-section&quot;]/div[@class=&quot;rightside inline-block&quot;]/div[@class=&quot;wrp-itemlist&quot;]/div[@class=&quot;inline-block visible-md-inline-block visible-lg-inline-block&quot;]/div[@class=&quot;wrp-button&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>4cc5fd9b-1195-4df3-a737-e2ac454b4571</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='siteHeader']/div/div/div[2]/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>094a64c6-5ac5-43b1-aa0c-d0c8928db883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Masuk / Daftar')]</value>
+      <webElementGuid>07434807-8401-4201-818a-84f4c2c08179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Virtual'])[1]/following::a[3]</value>
+      <webElementGuid>b17d2bce-b10a-4a35-a491-16bd07ac7130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Food &amp; Beverage'])[1]/following::a[3]</value>
+      <webElementGuid>3811ed41-abeb-4877-aad2-952ce3f782cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retail'])[1]/preceding::a[1]</value>
+      <webElementGuid>41466789-35cb-4956-a80f-9806a6897cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Food'])[1]/preceding::a[2]</value>
+      <webElementGuid>4088d515-8d8e-4a7a-a2db-597e352b3490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk / Daftar']/parent::*</value>
+      <webElementGuid>cde5d632-b7dc-4ef6-9aef-0f8f5f9c155f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://account.klikindomaret.com?ReturnUrl=http://www.klikindomaret.com/')])[4]</value>
+      <webElementGuid>71de2f8d-c28f-417b-8280-dc07727aa6c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>1404d6a8-5000-44a6-90c9-973d44ee90d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://account.klikindomaret.com?ReturnUrl=http://www.klikindomaret.com/' and (text() = 'Masuk / Daftar' or . = 'Masuk / Daftar')]</value>
+      <webElementGuid>b3ab0d39-0cad-4a1a-b1e3-062bb2be1653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

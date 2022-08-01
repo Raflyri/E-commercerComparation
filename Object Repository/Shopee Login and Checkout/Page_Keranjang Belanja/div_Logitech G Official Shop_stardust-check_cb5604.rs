@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Logitech G Official Shop_stardust-check_cb5604</name>
+   <tag></tag>
+   <elementGuidId>a3557914-9feb-4a33-bf0a-0cd0a7ff96dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div[3]/div/div[3]/div[2]/div/div/div/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.uUhc_B > label.stardust-checkbox > div.stardust-checkbox__box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68c98f05-9063-4ec8-a9ec-61d88fe7331c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stardust-checkbox__box</value>
+      <webElementGuid>60f75f7d-b533-4d5d-8614-ffffab988df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[2]/div[@class=&quot;_2LNMKb&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;_1nft6V&quot;]/div[@class=&quot;aCSbhb&quot;]/div[@class=&quot;_2qN5oG&quot;]/div[@class=&quot;_216OLk&quot;]/div[@class=&quot;_1GcTXp&quot;]/div[@class=&quot;uUhc_B&quot;]/label[@class=&quot;stardust-checkbox&quot;]/div[@class=&quot;stardust-checkbox__box&quot;]</value>
+      <webElementGuid>550d712c-ef22-4966-b3a7-8d7705434d1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div[3]/div/div[3]/div[2]/div/div/div/label/div</value>
+      <webElementGuid>df94b6ab-0f19-47ec-89a0-4a2668bc7b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/label/div</value>
+      <webElementGuid>b1b9c22d-09e5-45eb-a01d-580b9bd43588</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

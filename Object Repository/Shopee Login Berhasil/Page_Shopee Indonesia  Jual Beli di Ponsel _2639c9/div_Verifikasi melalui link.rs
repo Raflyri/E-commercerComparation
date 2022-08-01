@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Verifikasi melalui link</name>
+   <tag></tag>
+   <elementGuidId>812d8ff0-8fd2-410e-b838-49e2b5d88c1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div/div/div[2]/div/button/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.xovLmg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dcff8f9-ef12-4bd3-a35f-7836fef9bf3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xovLmg</value>
+      <webElementGuid>c6b380dc-f95c-425e-b27b-f685b0ad2899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi melalui link</value>
+      <webElementGuid>680da3fb-7de0-4a02-bf84-612f47f19ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;vtexOX&quot;]/div[1]/div[@class=&quot;_3M9lzn&quot;]/div[@class=&quot;_8216vd&quot;]/div[@class=&quot;j+62tl J1i6cp&quot;]/div[@class=&quot;AOz7SK&quot;]/div[@class=&quot;VXfiwU&quot;]/div[@class=&quot;quvuMg&quot;]/button[@class=&quot;E62KYV&quot;]/div[@class=&quot;xovLmg&quot;]</value>
+      <webElementGuid>f2536ee5-3954-42d4-84b5-c24b279436bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9db568f-69af-4eb0-a777-e8a0833f2f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xovLmg</value>
+      <webElementGuid>d2f32777-b7f8-4b9e-86bf-540952364b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi melalui link</value>
+      <webElementGuid>741a9527-d636-408c-84c4-b0defba01270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;vtexOX&quot;]/div[1]/div[@class=&quot;_3M9lzn&quot;]/div[@class=&quot;_8216vd&quot;]/div[@class=&quot;j+62tl J1i6cp&quot;]/div[@class=&quot;AOz7SK&quot;]/div[@class=&quot;VXfiwU&quot;]/div[@class=&quot;quvuMg&quot;]/button[@class=&quot;E62KYV&quot;]/div[@class=&quot;xovLmg&quot;]</value>
+      <webElementGuid>ba2fff46-1fb5-4a9c-8d83-67558638b00d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div/div/div[2]/div/button/div[2]</value>
+      <webElementGuid>86becc80-7358-4ad9-98de-bada0dbfc4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Untuk keamanan akun, mohon verifikasi identitas kamu dengan salah satu cara di bawah ini.'])[1]/following::div[4]</value>
+      <webElementGuid>134bd39e-9aa8-461d-8013-be1deaf89573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Butuh bantuan?'])[1]/following::div[10]</value>
+      <webElementGuid>a0793b8b-5918-4ee6-bbbd-ca5c9b6cca42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Q: Mengapa saya diminta untuk verifikasi akun?'])[1]/preceding::div[1]</value>
+      <webElementGuid>12d2d6c0-0642-4c04-80ac-7a585ce9561b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Q: Apa yang dapat saya lakukan jika tidak bisa verifikasi akun?'])[1]/preceding::div[4]</value>
+      <webElementGuid>747f3d77-a654-4684-a8fa-5702dd8694a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verifikasi melalui link']/parent::*</value>
+      <webElementGuid>2b866fee-790d-4aa8-b517-198d602fcd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[2]</value>
+      <webElementGuid>e81003b9-9b0e-4827-98b8-47d17eba7801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Verifikasi melalui link' or . = 'Verifikasi melalui link')]</value>
+      <webElementGuid>39008b6e-2e08-4523-adec-c740733df7ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

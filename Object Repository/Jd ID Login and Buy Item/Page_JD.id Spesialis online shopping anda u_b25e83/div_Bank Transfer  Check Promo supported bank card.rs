@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bank Transfer  Check Promo supported bank card</name>
+   <tag></tag>
+   <elementGuidId>1f1783fe-8e91-4f63-a4c4-b154526edc73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bank > div.conatiner-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/div/div/div[3]/ul/li[5]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5231e3f4-27e4-46db-a16f-351b573cdb62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>psa</name>
+      <type>Main</type>
+      <value>CASHIER-16</value>
+      <webElementGuid>e1e074af-8c3a-4f1a-9e84-a62fafc02339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>conatiner-title</value>
+      <webElementGuid>d23a7aab-21d5-40a3-9844-95e6dd24befb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Bank Transfer  Check Promo supported bank card
+        </value>
+      <webElementGuid>14ad797a-565f-4daa-a95f-f69c6e4d5185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper-content&quot;]/div[@class=&quot;home-wrapper&quot;]/div[@class=&quot;home&quot;]/div[@class=&quot;content clearfix&quot;]/div[@class=&quot;content-l&quot;]/div[@class=&quot;other-methods&quot;]/div[@class=&quot;content-l-list&quot;]/ul[1]/li[5]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;bank&quot;]/div[@class=&quot;conatiner-title&quot;]</value>
+      <webElementGuid>0286b3da-4972-4361-8d2a-6ea09f997a8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/div/div/div[3]/ul/li[5]/div/div/div</value>
+      <webElementGuid>acbd42eb-b70a-4ee3-8603-fcf94f81973f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[2]/following::div[6]</value>
+      <webElementGuid>1f6515d4-ef51-445b-8f2b-9c6490df52a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melihat promo bank'])[2]/following::div[7]</value>
+      <webElementGuid>372967f1-5464-401b-887d-91cec1e44923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/div</value>
+      <webElementGuid>9548fa15-3ec0-4ddd-8b9e-ec044936b151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Bank Transfer  Check Promo supported bank card
+        ' or . = '  Bank Transfer  Check Promo supported bank card
+        ')]</value>
+      <webElementGuid>2d9a2468-b8ac-4c37-abd1-ddf88880d4df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

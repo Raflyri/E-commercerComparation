@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Transfer Bank</name>
+   <tag></tag>
+   <elementGuidId>59095b3a-bba2-4cb4-bb90-15c7871dee32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div[2]/div[4]/div/div/div/div[2]/span[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.product-variation.product-variation--selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8cd03507-329c-4338-94e4-ff2dc8def849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-variation product-variation--selected</value>
+      <webElementGuid>13110437-bb40-4ff4-bef0-6004857a17c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Transfer Bank</value>
+      <webElementGuid>5747274b-a79c-4efe-bf2b-6055af52f53f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e0457c7d-a891-4b22-a3e3-849ce0d20f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer Bank</value>
+      <webElementGuid>fec5a2b2-5117-45b4-8ac8-09471d39adde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;dYFPlI&quot;]/div[@class=&quot;_8ZMqxt&quot;]/div[@class=&quot;kRed1l&quot;]/div[@class=&quot;HgQ4yt&quot;]/div[1]/div[@class=&quot;checkout-payment-method-view__current checkout-payment-setting&quot;]/div[@class=&quot;checkout-payment-setting__payment-methods-tab&quot;]/span[3]/button[@class=&quot;product-variation product-variation--selected&quot;]</value>
+      <webElementGuid>99f8bb78-482a-4a41-8522-0c5e3b0ffecf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div[2]/div[4]/div/div/div/div[2]/span[3]/button</value>
+      <webElementGuid>e02626eb-b069-416d-bcc2-0b5bd1058dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COD (Bayar di Tempat)'])[1]/following::button[1]</value>
+      <webElementGuid>ab85f9b2-8730-495a-b268-21a0d9482498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Rp1.750)'])[1]/following::button[2]</value>
+      <webElementGuid>d25a45d9-51e8-4a3d-93f6-c2681205b05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kartu Kredit/Debit'])[1]/preceding::button[1]</value>
+      <webElementGuid>f64b1f51-9406-42ab-949c-b75c6cb50ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cicilan Kartu Kredit'])[1]/preceding::button[2]</value>
+      <webElementGuid>263d6ccc-37a4-4271-a813-98dec7e37c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transfer Bank']/parent::*</value>
+      <webElementGuid>a5893cbe-b710-478f-902b-7b07f2e4af99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/button</value>
+      <webElementGuid>17e3b440-7f5a-4e75-824e-1523054a8007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Transfer Bank' or . = 'Transfer Bank')]</value>
+      <webElementGuid>2b0c85d4-1a2e-4cca-b558-43b74a680113</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

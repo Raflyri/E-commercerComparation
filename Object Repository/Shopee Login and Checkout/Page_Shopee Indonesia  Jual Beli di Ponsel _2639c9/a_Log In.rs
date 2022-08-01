@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log In</name>
+   <tag></tag>
+   <elementGuidId>be1d985f-8237-46e7-9f42-fc82234e6840</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/header/div/nav/ul/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.navbar__link.navbar__link--account.navbar__link--login.navbar__link--tappable.navbar__link--hoverable.navbar__link-text.navbar__link-text--medium.navbar__link-text--normal-case</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8bc6220-aae1-4783-9edf-43571474026f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar__link navbar__link--account navbar__link--login navbar__link--tappable navbar__link--hoverable navbar__link-text navbar__link-text--medium navbar__link-text--normal-case</value>
+      <webElementGuid>0a1046ad-d028-4bf2-bd7f-e79e71533065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/buyer/login?next=https%3A%2F%2Fshopee.co.id%2F</value>
+      <webElementGuid>9d78b378-124e-4d7b-b89f-f895874f5654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>7d7da896-9066-407a-934a-a152df67c619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/header[@class=&quot;shopee-top shopee-top--sticky&quot;]/div[@class=&quot;navbar-wrapper container-wrapper&quot;]/nav[@class=&quot;container navbar&quot;]/ul[@class=&quot;navbar__links&quot;]/a[@class=&quot;navbar__link navbar__link--account navbar__link--login navbar__link--tappable navbar__link--hoverable navbar__link-text navbar__link-text--medium navbar__link-text--normal-case&quot;]</value>
+      <webElementGuid>7af74364-7813-4f6b-b57c-a2a659e6da9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/header/div/nav/ul/a[3]</value>
+      <webElementGuid>f91aa976-b9b9-4d5a-8fce-ea4bd78449c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log In')]</value>
+      <webElementGuid>c203cb2d-dabf-4e98-8e1a-d2d99d7b0e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::a[1]</value>
+      <webElementGuid>f03c955b-768f-4cf1-b900-ee3abfc22708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::a[2]</value>
+      <webElementGuid>673382ff-0596-47b8-9f86-681c800265ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tas Wanita'])[1]/preceding::a[2]</value>
+      <webElementGuid>5b9c2073-8232-489f-8001-a9feef0c63e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tas Sekolah'])[1]/preceding::a[3]</value>
+      <webElementGuid>83ac6799-9d4f-4eac-931d-a21be27c50bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log In']/parent::*</value>
+      <webElementGuid>cbb723bf-48e9-4756-aac4-8870d6e3d4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/buyer/login?next=https%3A%2F%2Fshopee.co.id%2F')]</value>
+      <webElementGuid>5bb28bc8-9648-43fe-bdbd-2e8148a3f4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/a[3]</value>
+      <webElementGuid>0837431d-86cb-46e4-8f9b-713002d8f45d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/buyer/login?next=https%3A%2F%2Fshopee.co.id%2F' and (text() = 'Log In' or . = 'Log In')]</value>
+      <webElementGuid>15c62b53-8247-4707-86eb-1cf8a5d45fa0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

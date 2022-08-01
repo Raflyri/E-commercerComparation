@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Login</name>
+   <tag></tag>
+   <elementGuidId>aeb896fe-1d4e-4c20-b024-b5eeffbe52d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sigil-header__nav.te-header-login > p.pr-4.sigil-header__nav-action.bl-text.bl-text--body-small.bl-text--semi-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vm__white-header-dweb']/section/header/div[3]/div/div/div[2]/div/a[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a788481f-1bae-4e0b-b089-d98098e912cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pr-4 sigil-header__nav-action bl-text bl-text--body-small bl-text--semi-bold</value>
+      <webElementGuid>eb77fd9a-207d-41af-9c1b-1ddac6a5e338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>4593dec6-c143-47c4-bcf7-34c79ce41b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vm__white-header-dweb&quot;)/section[@class=&quot;bl-section sigil-header&quot;]/header[@class=&quot;c-header-v2&quot;]/div[@class=&quot;sigil-header__main-nav-bar&quot;]/div[@class=&quot;bl-container&quot;]/div[@class=&quot;bl-flex-container justify-space-between align-items-center&quot;]/div[@class=&quot;bl-flex-item&quot;]/div[@class=&quot;bl-flex-container align-items-center&quot;]/a[@class=&quot;sigil-header__nav te-header-login&quot;]/p[@class=&quot;pr-4 sigil-header__nav-action bl-text bl-text--body-small bl-text--semi-bold&quot;]</value>
+      <webElementGuid>fe878e41-0ada-4b52-b910-33d7cbdea301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ec6b7031-b161-4120-9024-2d863728fa4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pr-4 sigil-header__nav-action bl-text bl-text--body-small bl-text--semi-bold</value>
+      <webElementGuid>355d1f54-7142-4465-8bae-02b53d25cc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>8811d73a-f5ee-4daa-939f-61195ac1e1bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vm__white-header-dweb&quot;)/section[@class=&quot;bl-section sigil-header&quot;]/header[@class=&quot;c-header-v2&quot;]/div[@class=&quot;sigil-header__main-nav-bar&quot;]/div[@class=&quot;bl-container&quot;]/div[@class=&quot;bl-flex-container justify-space-between align-items-center&quot;]/div[@class=&quot;bl-flex-item&quot;]/div[@class=&quot;bl-flex-container align-items-center&quot;]/a[@class=&quot;sigil-header__nav te-header-login&quot;]/p[@class=&quot;pr-4 sigil-header__nav-action bl-text bl-text--body-small bl-text--semi-bold&quot;]</value>
+      <webElementGuid>9b9c76c1-f769-4472-b2e6-19c458c2b9dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vm__white-header-dweb']/section/header/div[3]/div/div/div[2]/div/a[2]/p</value>
+      <webElementGuid>ac71042f-9eba-4755-b61a-1aa02ae48a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat BukaMall'])[1]/following::p[3]</value>
+      <webElementGuid>b75d5d02-c80e-4ff1-9751-2008110ce547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Sepeda Pelita Abadi'])[1]/following::p[3]</value>
+      <webElementGuid>557923d5-55fe-41ba-a108-a05ddd2ebdb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[1]/preceding::p[1]</value>
+      <webElementGuid>c95cee82-d5a3-4e6e-8533-3903ae546903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[2]/preceding::p[10]</value>
+      <webElementGuid>ad8b73fe-df91-4ac3-aa4c-2222335082af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>53b9da59-1260-40c8-8e3f-83d91196c4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/p</value>
+      <webElementGuid>10e591df-e157-4bce-b6ed-fb4001496c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>bba342df-6436-46a5-9047-ad584a03a777</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

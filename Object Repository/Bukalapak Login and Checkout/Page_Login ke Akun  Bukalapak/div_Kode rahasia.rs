@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kode rahasia</name>
+   <tag></tag>
+   <elementGuidId>b04bd2a9-bbe3-445b-b127-a53dd2355a64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div > div > div.bl-text-field > div.bl-text-field__boxed > div.bl-text-field__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TFAJS-1659282450356']/section/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4bf8e2fa-7213-4052-9b2d-19b177df3bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-text-field__inner</value>
+      <webElementGuid>39e51243-7898-4e58-bd2d-ef0fa3db13b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kode rahasia</value>
+      <webElementGuid>6e64588f-da3e-428c-b31b-576811d00c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1659282450356&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;bl-text-field&quot;]/div[@class=&quot;bl-text-field__boxed&quot;]/div[@class=&quot;bl-text-field__inner&quot;]</value>
+      <webElementGuid>e8665d6f-4fe2-4cc1-a038-235e583856a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ea40f64-123a-4fc4-8f16-9d3226f95de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-text-field__inner</value>
+      <webElementGuid>61700251-ca89-41ce-9d30-ef288c95e430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kode rahasia</value>
+      <webElementGuid>2ac9f885-f60e-4245-8059-d7453bac7366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1658654929194&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;bl-text-field is-focused&quot;]/div[@class=&quot;bl-text-field__boxed&quot;]/div[@class=&quot;bl-text-field__inner&quot;]</value>
+      <webElementGuid>7f8d0ff8-5cf2-4f02-9d8d-bb586b51a87a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1659282450356']/section/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>e4304614-90a4-4d0c-9ae2-5e2c4cd0db58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor hilang atau tidak aktif'])[1]/following::div[6]</value>
+      <webElementGuid>1e60f934-3875-46da-ae68-99cdb3835aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/following::div[25]</value>
+      <webElementGuid>b199e716-8298-49a0-b9e8-fb81fff898a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunggu 1 menit 58 detik'])[1]/preceding::div[3]</value>
+      <webElementGuid>c65409e3-d753-44b3-ba7d-1cd8f94b763f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>81b6f69f-253b-45ab-a7e1-3b08bdb98e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Kode rahasia' or . = ' Kode rahasia')]</value>
+      <webElementGuid>dd250429-6770-4a14-8172-7e384accae41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1658654929194']/section/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>c5152145-0760-4405-8cab-e39a8ccd7e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunggu 40 detik'])[1]/preceding::div[3]</value>
+      <webElementGuid>282301da-70bf-439c-a9b5-6aa70d77a1d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

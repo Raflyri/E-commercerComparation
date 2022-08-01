@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Gagal Login Terlalu Banyak Percobaan</description>
+   <name>Shopee Login Terlalu Banyak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9e7ee65-fd38-41c6-b0be-ca6d04a5d4cb</testCaseGuid>
+</TestCaseEntity>

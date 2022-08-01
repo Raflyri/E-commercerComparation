@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Bank_bg-list-item</name>
+   <tag></tag>
+   <elementGuidId>72e253eb-62b9-4b83-b030-2a739efe0417</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div[2]/div/div/div[3]/ul/li[5]/div/div/div[2]/div[2]/div/ul/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-list.bank-list > ul.clearfix > li.active > div.bg-list-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3eebcb02-eed6-4457-80a9-d724a1c9356a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-list-item</value>
+      <webElementGuid>d130aad0-c38b-4b9b-ac00-03b96becd4f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper-content&quot;]/div[@class=&quot;home-wrapper&quot;]/div[@class=&quot;home&quot;]/div[@class=&quot;content clearfix&quot;]/div[@class=&quot;content-l&quot;]/div[@class=&quot;other-methods&quot;]/div[@class=&quot;content-l-list&quot;]/ul[1]/li[5]/div[@class=&quot;content-wrapper active&quot;]/div[@class=&quot;bank&quot;]/div[@class=&quot;pay-detail&quot;]/div[@class=&quot;pay-input mb12&quot;]/div[@class=&quot;bg-list bank-list&quot;]/ul[@class=&quot;clearfix&quot;]/li[@class=&quot;active&quot;]/div[@class=&quot;bg-list-item&quot;]</value>
+      <webElementGuid>9731a038-25be-4f11-915d-aa9c6e4dae8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div[2]/div/div/div[3]/ul/li[5]/div/div/div[2]/div[2]/div/ul/li/div</value>
+      <webElementGuid>a23b63e2-9192-4adf-8645-4c7d69615464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Bank'])[1]/following::div[2]</value>
+      <webElementGuid>efbb5ef5-0fdc-4988-a6df-6f1797d4f419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='( Verifikasi Max. 24 Jam )'])[1]/following::div[5]</value>
+      <webElementGuid>bd84356c-042c-4190-a850-72d528ef1459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saat ini tidak tersedia'])[1]/preceding::div[20]</value>
+      <webElementGuid>4eeb6603-4828-4beb-b757-4684a4f0df17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saat ini tidak tersedia'])[2]/preceding::div[26]</value>
+      <webElementGuid>432a7860-c2b0-4e13-81bd-3eba7518bf36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li/div</value>
+      <webElementGuid>ee4e9fad-4b81-42bd-8fa0-0d291bcb9fab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

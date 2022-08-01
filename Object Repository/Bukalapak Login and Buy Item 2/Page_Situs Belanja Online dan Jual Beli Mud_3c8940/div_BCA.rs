@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BCA</name>
+   <tag></tag>
+   <elementGuidId>00f4265b-9c7b-4a4c-8c47-aee4e38d63c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bl-dropdown__option__item-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-checkout-container']/fragment-loader/div/div/section/div/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div/div/div/div[2]/ul/li/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80142bc9-d776-42c6-b7f5-8a70f04496d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-dropdown__option__item-wrapper</value>
+      <webElementGuid>1d67cdf8-97c9-4f05-8388-35000eeaf946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+              BCA
+             </value>
+      <webElementGuid>b45a8c36-ca53-4061-a2ac-422823c341d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-checkout-container&quot;)/fragment-loader[1]/div[@class=&quot;tuku&quot;]/div[1]/section[1]/div[1]/div[@class=&quot;bl-card bl-card--outlined&quot;]/div[@class=&quot;bl-accordion is-active bl-accordion--no-border&quot;]/div[@class=&quot;bl-accordion__body&quot;]/div[1]/div[3]/div[@class=&quot;bl-payment-category&quot;]/div[@class=&quot;bl-flex-item bl-payment-category__detail ph-20 pb-20&quot;]/div[1]/div[1]/div[@class=&quot;mb-12&quot;]/div[@class=&quot;bl-dropdown bl-payment-type__option bl-dropdown--active&quot;]/div[@class=&quot;bl-dropdown__content&quot;]/ul[@class=&quot;bl-dropdown__option&quot;]/li[@class=&quot;bl-dropdown__option__item&quot;]/div[@class=&quot;bl-dropdown__option__item-wrapper&quot;]</value>
+      <webElementGuid>b104f4be-839f-447b-b307-8a8aa22fdff2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-checkout-container']/fragment-loader/div/div/section/div/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div/div/div/div[2]/ul/li/div</value>
+      <webElementGuid>26c9a926-c7db-45a1-bf85-472ce3895112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terakhir kamu pakai'])[1]/following::div[65]</value>
+      <webElementGuid>dcaf1218-2e1a-4360-87ca-0aeb082fcf25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran'])[1]/following::div[109]</value>
+      <webElementGuid>6288341f-d277-4e14-8ed3-6579a8c03fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Punya kode voucher?'])[1]/preceding::div[97]</value>
+      <webElementGuid>f8a6939e-b086-4a71-a717-146778d6b55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan kode voucher'])[1]/preceding::div[97]</value>
+      <webElementGuid>083fc5b9-9bbe-4fbe-b46a-89011e7164c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>dafbd0d6-8c95-4006-b6fa-15411f57a87c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 
+              BCA
+             ' or . = ' 
+              BCA
+             ')]</value>
+      <webElementGuid>6231f753-d193-409a-b051-247df391f428</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

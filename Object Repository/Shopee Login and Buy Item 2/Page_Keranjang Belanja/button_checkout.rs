@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_checkout</name>
+   <tag></tag>
+   <elementGuidId>ff60610e-6448-4370-95ad-1a09f07b3153</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.shopee-button-solid.shopee-button-solid--primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div[3]/div[2]/div[7]/button[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0950a2be-b4e0-4055-823b-a0b7cfee3219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shopee-button-solid shopee-button-solid--primary</value>
+      <webElementGuid>14d38b83-b400-49fb-91dc-13fa0b48ec8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>checkout</value>
+      <webElementGuid>f3ed044a-ab5e-4d7b-bd3a-577eb434b9e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[2]/div[@class=&quot;_2LNMKb&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;_2jol0L&quot;]/div[@class=&quot;W2HjBQ zzOmij&quot;]/button[@class=&quot;shopee-button-solid shopee-button-solid--primary&quot;]</value>
+      <webElementGuid>6f9bd718-bf7a-4f0b-b6e5-a893a208fe3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div[3]/div[2]/div[7]/button[4]</value>
+      <webElementGuid>4be98e14-a6e8-4faf-9a30-55e2b2f2604e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp722RB'])[1]/following::button[1]</value>
+      <webElementGuid>044a33ab-50ce-4953-a7de-dae34742838d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kamu mungkin juga suka'])[1]/preceding::button[1]</value>
+      <webElementGuid>373e647c-4e3a-4f0c-8975-068fe49bb4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>75535c03-b763-422d-a394-76e3ef303791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'checkout' or . = 'checkout')]</value>
+      <webElementGuid>20f43bf5-ddea-49d6-a981-0b42307d76fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

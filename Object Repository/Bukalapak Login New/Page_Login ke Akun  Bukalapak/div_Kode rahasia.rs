@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kode rahasia</name>
+   <tag></tag>
+   <elementGuidId>5bfe62f7-f156-4671-9c46-10727eb3eb36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div > div > div.bl-text-field > div.bl-text-field__boxed > div.bl-text-field__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TFAJS-1658932759361']/section/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ff5a7d2-36ee-4a46-be7c-fba5e725d6c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-text-field__inner</value>
+      <webElementGuid>6442b08b-2bd5-42fb-ae6c-b84060d588f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kode rahasia</value>
+      <webElementGuid>3195901d-a2fb-4390-a0a5-6445a743b0bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1658932759361&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;bl-text-field&quot;]/div[@class=&quot;bl-text-field__boxed&quot;]/div[@class=&quot;bl-text-field__inner&quot;]</value>
+      <webElementGuid>c57c911e-b642-4911-b95f-1143e6413987</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1658932759361']/section/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>e4a31750-0e68-4d03-8160-546d94633dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor hilang atau tidak aktif'])[1]/following::div[6]</value>
+      <webElementGuid>0b1518d8-790b-4333-aafb-9a2073bc637f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/following::div[27]</value>
+      <webElementGuid>6476ef4d-08da-4662-85da-c5ed30ca624f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunggu 1 menit 57 detik'])[1]/preceding::div[3]</value>
+      <webElementGuid>113fdda6-ced7-4abc-a2bd-21ccf03ce3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>d17daa70-2099-4a76-b76a-96bb11a04327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Kode rahasia' or . = ' Kode rahasia')]</value>
+      <webElementGuid>dd461a84-405b-4021-8615-0dc248749d9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

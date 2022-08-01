@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Verifikasi</name>
+   <tag></tag>
+   <elementGuidId>d7fd96f8-178f-4df1-ae65-966e41fedc91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div > div > button.bl-button.bl-button--primary.bl-button--medium.bl-button--block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4f4fe901-8e76-43a1-b967-238ae9d05dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-button bl-button--primary bl-button--medium bl-button--block</value>
+      <webElementGuid>f218a4af-828e-4595-aa1a-812c43e6276a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Verifikasi </value>
+      <webElementGuid>6e2aee81-df4c-4a08-9811-b2f886f0a682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1659282450356&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/button[@class=&quot;bl-button bl-button--primary bl-button--medium bl-button--block&quot;]</value>
+      <webElementGuid>d76278d5-37fd-4cf5-a61f-c51bd72d7031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9d5b800-576f-41c7-b8a6-b8ada5009c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-button bl-button--primary bl-button--medium bl-button--block</value>
+      <webElementGuid>cbf2c7b9-1608-409b-bd9c-fbe30e173d23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Verifikasi </value>
+      <webElementGuid>e77cab27-b587-4b39-965e-a150e6b71809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1658650412898&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/button[@class=&quot;bl-button bl-button--primary bl-button--medium bl-button--block&quot;]</value>
+      <webElementGuid>a2827b65-dbfb-4421-b5c3-1fe9acc8585a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1659282450356']/section/div/div[2]/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>9572e1a1-79bc-4ea0-b0d4-05270c743c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunggu 1 menit 4 detik'])[1]/following::button[1]</value>
+      <webElementGuid>b5d3727c-fde7-49ae-be2f-0493996165c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode rahasia'])[1]/following::button[1]</value>
+      <webElementGuid>618d0c5b-63d0-40d7-896a-c5f7cff1e14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>32074fc5-90cd-48f2-8c54-296c8943a614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Verifikasi ' or . = ' Verifikasi ')]</value>
+      <webElementGuid>4622ae2c-d3f3-4792-9aa4-8e50ab573d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1658650412898']/section/div/div[2]/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>0cb5fb86-65cb-4da2-84de-28fcdb210950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunggu 1 menit 38 detik'])[1]/following::button[1]</value>
+      <webElementGuid>8be12422-afb7-402e-8ee1-d16832d212ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
